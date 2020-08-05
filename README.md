@@ -1,6 +1,6 @@
 # FlutterDex
 
-A small App in the journey of learning Flutter/Dart showing a simple entry for the Pokemon Pikachu using two Card() elements.
+A small App in the journey of learning `Flutter/Dart` showing a simple entry for the Pokemon Pikachu using two Card() elements.
 
 <div align="center">
 <img src="images/screen.png" width="50%">
